@@ -4,7 +4,7 @@ Simple smartcontract - vue.js interaction. Based on https://medium.com/coinmonks
 ## Prerequisites
 node16.
 vue-js
-hotroad
+hardhat
 ganache
 
 ## Project setup
